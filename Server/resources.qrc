@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>get_ratios/get_ratios.py</file>
+    </qresource>
+</RCC>

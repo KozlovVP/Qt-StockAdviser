@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/tickers">
+        <file>tickers/tickers.csv</file>
+    </qresource>
+    <qresource prefix="/stylesheets">
+        <file>stylesheets/Fibrary.qss</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>img/stock_png.jpg</file>
+    </qresource>
+</RCC>
