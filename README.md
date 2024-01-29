@@ -5,7 +5,7 @@ This app allows one to:
 * get correlation graph between two chosen securities
 
 ## Tech performance
-My main focus was not on functionality, but on making the app multithreaded and optimized.
+My main focus was on making the app multithreaded and optimized.
 Each client request is readed in a seperate thread, each request is processed in a seperate thread.
 
 How everything works:
