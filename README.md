@@ -27,7 +27,7 @@ Enter the ticker you are interested in and get some useful data
 
 ![image](https://github.com/KozlovVP/Qt-StockAdviser/assets/114473389/6053a446-326d-47fc-b80c-58619fc53104)
 
-Or if "Measure correlations is pressed"
+Or if "Measure correlations" is pressed
 
 ![image](https://github.com/KozlovVP/Qt-StockAdviser/assets/114473389/585a1221-b952-4920-9aa4-1c45c1f029c7)
 
