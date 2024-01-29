@@ -37,7 +37,7 @@
 
 
 ## Как установить мое приложение
-1) Удостоверьтесь, что у вас скачены Qt Creator и Git CMD 
+1) Удостоверьтесь, что у вас установлены Qt Creator и Git CMD 
 2) Создайте папку "Git" на рабочем столе
 
 ![image](https://github.com/KozlovVP/Qt-StockAdviser/assets/114473389/87a3f3a7-1cfc-4928-8dee-1938dad171d9)
