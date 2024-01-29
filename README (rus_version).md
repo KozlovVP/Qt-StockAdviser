@@ -50,7 +50,7 @@
 
 ![image](https://github.com/KozlovVP/Qt-StockAdviser/assets/114473389/a755c90b-c6a3-4f1a-bbfe-a447d1aa7696)
 
-5) Введите "git clone https://github.com/KozlovVP/Qt-StockAdviser.git" еще раз
+5) Введите "git clone https://github.com/KozlovVP/Qt-StockAdviser.git" повторно
 
 ![image](https://github.com/KozlovVP/Qt-StockAdviser/assets/114473389/fc6700a4-0597-4dc5-b1fd-b7b8409c1289)
 
