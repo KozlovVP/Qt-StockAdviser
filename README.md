@@ -1,8 +1,8 @@
 # Qt-StockAdviser
 
 This app allows one to:
-* get price change graph and most useful fundamental ratios
-* get correlation graph between two securities
+* get price change graph and most useful fundamental ratios on a chosen stock
+* get correlation graph between two chosen securities
 
 ## Tech performance
 My main focus was not on functionality, but on making the app multithreaded and optimized.
