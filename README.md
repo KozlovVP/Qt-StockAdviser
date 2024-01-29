@@ -55,11 +55,11 @@ Enter two tickers and get some info
 ![image](https://github.com/KozlovVP/Qt-StockAdviser/assets/114473389/fc6700a4-0597-4dc5-b1fd-b7b8409c1289)
 
 6) Congrats! Now you have all src files in your "git" folder
-7) Open Qt Creator and press "Open project"->C:\Users\..\Desktop\git\Qt-StockAdviser\Server\Server.pro You will see server's src code
+7) Open Qt Creator and press "Open project"->C:\Users\\..\Desktop\git\Qt-StockAdviser\Server\Server.pro You will see server's src code
 
 ![image](https://github.com/KozlovVP/Qt-StockAdviser/assets/114473389/1c06e383-0ee3-4094-8e61-67f8f526e1c5)
 
-8) Open Qt Creator and press "Open project"->C:\Users..\Desktop\git\Qt-StockAdviser\Client\Client.pro You will see client's src code
+8) Open Qt Creator and press "Open project"->C:\Users\\..\Desktop\git\Qt-StockAdviser\Client\Client.pro You will see client's src code
 
 ![image](https://github.com/KozlovVP/Qt-StockAdviser/assets/114473389/794364a2-1a19-4a4f-9cf1-b892253f9b7f)
 
