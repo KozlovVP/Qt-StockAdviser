@@ -37,3 +37,9 @@ Enter two tickers and get some info
 
 
 ## How to install my app
+1) Make sure you have Qt Creator and Git CMD installed
+2) Create a "git" folder on your Dekstop
+
+![image](https://github.com/KozlovVP/Qt-StockAdviser/assets/114473389/87a3f3a7-1cfc-4928-8dee-1938dad171d9)
+
+3) Open Git CMD and type "git clone 
