@@ -14,7 +14,7 @@
 3) .py создает .png and .txt файлы с криптографическим хэшем в их названии (чтобы избежать путаницы в файлах)
 4) Сервер открывает файлы с заранее известным хэшем, отправляет их клиенту, а затем удаляет их
 
-## Работ приложения
+## Работа приложения
 Выберите одну из двух опций
 
 ![image](https://github.com/KozlovVP/Qt-StockAdviser/assets/114473389/b718c0f2-0be7-4280-904c-12f3ce6bdaa8)
@@ -23,11 +23,11 @@
 
 ![image](https://github.com/KozlovVP/Qt-StockAdviser/assets/114473389/47f25d99-b9d1-461f-8abe-6953cc5aa66b)
 
-Enter the ticker you are interested in and get some useful data
+Введите тиккер интересующей акции и нажмите на "Get data on stock"
 
 ![image](https://github.com/KozlovVP/Qt-StockAdviser/assets/114473389/6053a446-326d-47fc-b80c-58619fc53104)
 
-Or if "Measure correlations is pressed"
+Или нажмите на "Measure correlations" при запуске приложения
 
 ![image](https://github.com/KozlovVP/Qt-StockAdviser/assets/114473389/585a1221-b952-4920-9aa4-1c45c1f029c7)
 
