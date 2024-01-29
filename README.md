@@ -12,7 +12,7 @@ How everything works:
 1) Server gets the request and opens one of .py scripts
 2) .py scipt finds needed data via yFinance API and builds graph with matplotlib
 3) .py creates .png and .txt files with a specific cryptographic hash
-4) server sends files to the client and then deletes them from the hard drive
+4) server sends files to the client and then deletes them from the program folder
 
 ## Starting the app
 Choose one of two options
@@ -34,3 +34,6 @@ Or if "Measure correlations is pressed"
 Enter two tickers and get some info
 
 ![image](https://github.com/KozlovVP/Qt-StockAdviser/assets/114473389/eb147c87-d62f-42ed-afaa-3543d9523873)
+
+
+## How to install my app
