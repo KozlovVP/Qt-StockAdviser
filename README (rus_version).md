@@ -1,25 +1,25 @@
 # Qt-StockAdviser
 
-This app allows one to:
-* get price change graph and most useful fundamental ratios on a chosen stock
-* get correlation graph between two chosen securities
+Приложение позволяет:
+* получать график изменения цены выбранной акции, а также некоторые ее фундаментальные мультипликаторы
+* посчитать корреляцию между ценными бумаги, получить график корреляции
 
-## Tech performance
-My main focus was not on functionality, but on making the app multithreaded and optimized.
-Each client request is readed in a seperate thread, each request is processed in a seperate thread.
+## Техническое исполнение
+Особое внимание решил уделить не столько функциональности, сколько производительности приложения.
+Поэтому каждый запрос клиента считывается в отдельном потоке. Обработка запроса происходит также в отдельном потоке.
 
-How everything works:
-1) Server gets the request and opens one of .py scripts
-2) .py scipt finds needed data via yFinance API and builds graph with matplotlib
-3) .py creates .png and .txt files with a specific cryptographic hash
-4) server sends files to the client and then deletes them from the program folder
+Как работает программа
+1) Сервер получает запрос от клиента и открывает необходимый .py скрипт
+2) .py скрипт получает нужную информацию через yFinance API и строит график, используя matplotlib
+3) .py создает .png and .txt файлы с криптографическим хэшем в их названии (чтобы избежать путаницы в файлах)
+4) Сервер открывает файлы с заранее известным хэшем, отправляет их клиенту, а затем удаляет их
 
-## Starting the app
-Choose one of two options
+## Работ приложения
+Выберите одну из двух опций
 
 ![image](https://github.com/KozlovVP/Qt-StockAdviser/assets/114473389/b718c0f2-0be7-4280-904c-12f3ce6bdaa8)
 
-If "Get stock data" button is pressed you will see the following 
+Если вы нажали на "Get stock data", то увидите следующее
 
 ![image](https://github.com/KozlovVP/Qt-StockAdviser/assets/114473389/47f25d99-b9d1-461f-8abe-6953cc5aa66b)
 
