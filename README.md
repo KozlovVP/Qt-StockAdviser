@@ -1,5 +1,3 @@
-## Русская версия README.md находится выше
-
 # Qt-StockAdviser
 
 This app allows one to:
