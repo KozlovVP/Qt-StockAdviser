@@ -6,7 +6,7 @@ This app allows one to:
 
 ## Tech performance
 My main focus was on making the app multithreaded and optimized.
-Each client request is readed in a seperate thread, each request is processed in a seperate thread.
+Each client request is readed in a seperate thread, each request and server response is processed in a seperate thread.
 
 How everything works:
 1) Server gets the request and opens one of .py scripts
