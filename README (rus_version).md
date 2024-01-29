@@ -31,37 +31,36 @@
 
 ![image](https://github.com/KozlovVP/Qt-StockAdviser/assets/114473389/585a1221-b952-4920-9aa4-1c45c1f029c7)
 
-Enter two tickers and get some info
+Введите тиккеры интересующих акций
 
 ![image](https://github.com/KozlovVP/Qt-StockAdviser/assets/114473389/eb147c87-d62f-42ed-afaa-3543d9523873)
 
 
-## How to install my app
-1) Make sure you have Qt Creator and Git CMD installed
-2) Create a "git" folder on your Dekstop
+## Как установит мое приложение
+1) Удостоверьтесь, что у вас скачены Qt Creator и Git CMD 
+2) Создайте папку "Git" на рабочем столе
 
 ![image](https://github.com/KozlovVP/Qt-StockAdviser/assets/114473389/87a3f3a7-1cfc-4928-8dee-1938dad171d9)
 
-3) Open Git CMD and type "git clone https://github.com/KozlovVP/Qt-StockAdviser.git"
+3) Откройте Git CMD и введите "git clone https://github.com/KozlovVP/Qt-StockAdviser.git"
 
 ![image](https://github.com/KozlovVP/Qt-StockAdviser/assets/114473389/5779ae5e-09a5-4528-a563-d57f0055265b)
 
-4) Copy PATH to the "git" folder on your Dekstop and type "cd \<PATH\>"
+4) Скопируйте PATH к папке "git", которую вы создали, и введите "cd \<PATH\>"
 
 ![image](https://github.com/KozlovVP/Qt-StockAdviser/assets/114473389/a755c90b-c6a3-4f1a-bbfe-a447d1aa7696)
 
-5) Type "git clone https://github.com/KozlovVP/Qt-StockAdviser.git" one more time
+5) Введите "git clone https://github.com/KozlovVP/Qt-StockAdviser.git" еще раз
 
 ![image](https://github.com/KozlovVP/Qt-StockAdviser/assets/114473389/fc6700a4-0597-4dc5-b1fd-b7b8409c1289)
 
-6) Congrats! Now you have all src files in your "git" folder
-7) Open Qt Creator and press "Open project"->C:\Users\\..\Desktop\git\Qt-StockAdviser\Server\Server.pro You will see server's src code
+6) Теперь все файлы программы находятся в папке "git"
+7) Откройте Qt Creator, нажмите на "Open project"->C:\Users\\..\Desktop\git\Qt-StockAdviser\Server\Server.pro Вы увидите исходные файлы сервера
 
 ![image](https://github.com/KozlovVP/Qt-StockAdviser/assets/114473389/1c06e383-0ee3-4094-8e61-67f8f526e1c5)
 
-8) Open Qt Creator and press "Open project"->C:\Users\\..\Desktop\git\Qt-StockAdviser\Client\Client.pro You will see client's src code
+8) Откройте Qt Creator, нажмите на "Open project"->C:\Users\\..\Desktop\git\Qt-StockAdviser\Client\Client.pro Вы увидите исходные файлы клиента
 
 ![image](https://github.com/KozlovVP/Qt-StockAdviser/assets/114473389/794364a2-1a19-4a4f-9cf1-b892253f9b7f)
 
-Thanks for installation!
-
+Спасибо за установку!
