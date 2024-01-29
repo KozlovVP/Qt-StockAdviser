@@ -46,7 +46,7 @@ Enter two tickers and get some info
 
 ![image](https://github.com/KozlovVP/Qt-StockAdviser/assets/114473389/5779ae5e-09a5-4528-a563-d57f0055265b)
 
-4) Copy PATH to the "git" folder on your Dekstop and type "cd <PATH>"
+4) Copy PATH to the "git" folder on your Dekstop and type "cd \<PATH\>"
 
 ![image](https://github.com/KozlovVP/Qt-StockAdviser/assets/114473389/a755c90b-c6a3-4f1a-bbfe-a447d1aa7696)
 
